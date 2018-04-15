@@ -18,4 +18,3 @@ class Blockchain:
         self.chain.append(block)
         return block
 
-    
